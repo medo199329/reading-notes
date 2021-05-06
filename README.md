@@ -9,6 +9,6 @@ and I will talk about a variety of subjects
 |css|[css simple](https://medo199329.github.io/reading-notes/csssimple)|
 
 |JS|[JS](https://medo199329.github.io/reading-notes/explainjs)|
-|expandloops||
+|expandloops|[loops](https://medo199329.github.io/reading-notes/expandloops)|
 =======
 |JS|[JS](https://medo199329.github.io/reading-notes/explainjs)|
