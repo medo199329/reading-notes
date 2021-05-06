@@ -15,6 +15,7 @@ they all take TRUE or FALSE inputs for example
 in a simple example of them, example (and ) let's say my name is Mohammed **AND** I'm wearing white pants, although my name is Mohammed I don't were white pants.
 so if one of them is false then both are false.
  **OR**  on the other hand, if I said my name is Mohammed OR my name is Ahmad, one of them has to be true so if one of the two sentences is true that means the whole phrase is  true.
+ 
  how we use those logic gates? by some operators called FOR loop and WHILE loop we can think of them ad repetition commands to tell the computer how many times it should repeat something until it gets it right.
 
 
